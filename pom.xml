@@ -119,7 +119,7 @@
     <flink.version>1.13.1</flink.version>
     <spark2.version>2.4.4</spark2.version>
     <spark3.version>3.1.2</spark3.version>
-    <spark2bundle.version></spark2bundle.version>
+    <spark2bundle.version/>
     <spark3bundle.version>3</spark3bundle.version>
     <hudi.spark.module>hudi-spark2</hudi.spark.module>
     <avro.version>1.8.2</avro.version>
@@ -162,7 +162,7 @@
     <shadeSources>true</shadeSources>
     <zk-curator.version>2.7.1</zk-curator.version>
     <antlr.version>4.7</antlr.version>
-    <aws.sdk.version>1.12.22</aws.sdk.version>
+    <aws.sdk.version>1.12.739</aws.sdk.version>
     <proto.version>3.17.3</proto.version>
     <protoc.version>3.1.0</protoc.version>
     <dynamodb.lockclient.version>1.1.0</dynamodb.lockclient.version>
@@ -400,7 +400,7 @@
               <license implementation="org.apache.rat.analysis.license.SimplePatternBasedLicense">
                 <licenseFamilyCategory>AL2 </licenseFamilyCategory>
                 <licenseFamilyName>Apache License 2.0</licenseFamilyName>
-                <notes />
+                <notes/>
                 <patterns>
                   <pattern>Licensed to the Apache Software Foundation (ASF) under one</pattern>
                 </patterns>
